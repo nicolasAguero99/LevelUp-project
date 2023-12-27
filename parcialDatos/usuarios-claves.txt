@@ -1,0 +1,5 @@
+NOMBRES = CONTRASEÑAS
+----------------------
+usuario = usuario
+admin = admin
+superadmin = superadmin
